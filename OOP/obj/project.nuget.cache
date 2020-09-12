@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "dZE6pwXGT5LwyqKc3St4VK9k9/rYsDPAwvVTuI3tpdR58ZlKigdoFV8Mx8rZLwUjWhxptgpMQc4djAV2rKpuiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vntjoig\\Studies\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\OOP\\OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vntjoig\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.2.0\\microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\vntjoig\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\vntjoig\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\vntjoig\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\vntjoig\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\vntjoig\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\vntjoig\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\vntjoig\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
